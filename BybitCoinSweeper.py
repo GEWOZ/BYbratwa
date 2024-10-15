@@ -107,7 +107,7 @@ def print_info_box(social_media_usernames):
     print(Fore.WHITE + Style.BRIGHT + '+' + '-' * (box_width - 2) + '+')
 
 if __name__ == "__main__":
-    banner_text = "WHYWETAP"
+    banner_text = "SİKİCİ"
     os.system('cls' if os.name == 'nt' else 'clear')
     create_gradient_banner(banner_text)
     social_media_usernames = [
